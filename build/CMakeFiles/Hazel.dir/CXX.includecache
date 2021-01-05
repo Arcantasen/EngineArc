@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspace/EngineArc/Hazel/src/Hazel/Application.cpp
+iostream
+-
+Application.h
+/workspace/EngineArc/Hazel/src/Hazel/Application.h
+
+/workspace/EngineArc/Hazel/src/Hazel/Application.h
+Core.h
+/workspace/EngineArc/Hazel/src/Hazel/Core.h
+
+/workspace/EngineArc/Hazel/src/Hazel/Core.h
+

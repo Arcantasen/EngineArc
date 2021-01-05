@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/workspace/EngineArc/build",
+  "command": "/bin/g++-9 -DHazel_EXPORTS  -g -fPIC -o CMakeFiles/Hazel.dir/Hazel/src/Hazel/Application.cpp.o -c /workspace/EngineArc/Hazel/src/Hazel/Application.cpp",
+  "file": "/workspace/EngineArc/Hazel/src/Hazel/Application.cpp"
+},
+{
+  "directory": "/workspace/EngineArc/build",
+  "command": "/bin/g++-9   -g -o CMakeFiles/Sandbox.dir/Sandbox/SandboxApp.cpp.o -c /workspace/EngineArc/Sandbox/SandboxApp.cpp",
+  "file": "/workspace/EngineArc/Sandbox/SandboxApp.cpp"
+}
+]

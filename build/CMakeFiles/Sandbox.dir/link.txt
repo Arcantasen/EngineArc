@@ -1,0 +1,1 @@
+/bin/g++-9 -g -rdynamic CMakeFiles/Sandbox.dir/Sandbox/SandboxApp.cpp.o -o Sandbox  -Wl,-rpath,/workspace/EngineArc/build libHazel.so 
