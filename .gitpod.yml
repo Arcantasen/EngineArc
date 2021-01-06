@@ -1,3 +1,6 @@
+image:
+  file: .gitpod.Dockerfile
+
 vscode:
   extensions:
     - twxs.cmake@0.0.17:aQNzlYa74rJFJ5/BnUF1yA==
